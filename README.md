@@ -1,4 +1,21 @@
-# kodutoo-1
+# kodutoo-1 
+LISADA:
+-(TEHTUD HETKESEISUGA, NUPUVÄRVID VAJAVAD MUUTMIST)
+-Taustavärvide valik või taustapiltide valik või videote valik
+----
+-Lofi muusikavideo milla saab veebilehel käima panna. (ehk käib juba? vaikselt? saab muteida, unmuteida, või nupust alles käima panna?)
+-Kellaformaadi muutmine 12h - 24h
+-Tundide liigutamine üles, minutid alla vs üksteise kõrval
+-Sekundite kuvamise nupp
+-Kuupäeva formaadi vahetumine
+-Sekundite tiksumine + täis/pooltunnil kellakõlin?
+
+--
+VAJALIK
+-Lisada nädalapäeva kuvamine. 
+-Ees ja perekonnanimi, 
+-github repo.
+
 
 ## Tähtaeg 01.04.2026 23:59
 
