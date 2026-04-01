@@ -7,7 +7,7 @@ Lisatud funktsionaalsused (ning juba olemasolevad):
 2. Võimalik on valida taustapilt. Taustapildid on ette määratud ning autori enda kogust. Kõikidel taustapiltidel on tekstivärv valge.
 3. Kellaformaadi muutmine 24h/12h. 
 4. Kasutaja saab peita sekundid või need uuesti esile tuua.
-5. + ja - nuppudega saab muuta kellaaja ning kuupäeva suuremaks. Nädalapäeva ei ole võimalik. 
+5. '+' ja '-' nuppudega saab muuta kellaaja ning kuupäeva suuremaks. Nädalapäeva ei ole võimalik. 
 6. Saab muuta kuupäeva formaati - DD.MM.YYYY või MM.DD.YYYY.
 -----------
 Pea igale nupule vajutamist avaneb vastav alammenüü. Selle saab sulgeda vajutades nupule uuesti (põhimõttega, et kasutaja saaks hõlpsamini valida erinevate valikute vahel).
